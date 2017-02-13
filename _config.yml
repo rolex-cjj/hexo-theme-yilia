@@ -40,7 +40,8 @@ google_analytics: ''
 favicon: /favicon.png
 
 #你的头像url
-avatar: https://oc90zyyoj.bkt.clouddn.com/juan_avater.jpg
+avatar: https://ohjnxvaxm.bkt.clouddn.com/avatar.jpg
+#https://oc90zyyoj.bkt.clouddn.com/juan_avater.jpg
 #是否开启分享
 share_jia: false
 share_addthis: false
