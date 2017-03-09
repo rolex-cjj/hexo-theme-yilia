@@ -8,7 +8,6 @@ menu:
 subnav:
   github: "#"
   weibo: "#"
-  rss: "#"
   zhihu: "#"
   #douban: "#"
   #mail: "#"
@@ -16,8 +15,6 @@ subnav:
   #google: "#"
   #twitter: "#"
   #linkedin: "#"
-
-rss: /atom.xml
 
 # 是否需要修改 root 路径
 # 如果您的网站存放在子目录中，例如 http://yoursite.com/blog，
